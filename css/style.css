@@ -1,0 +1,11 @@
+.blockquote {
+    margin: 0;
+}
+.blockquote p{
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+.figcaption cite {
+    font family: monospace;
+}
