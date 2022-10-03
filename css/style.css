@@ -1,11 +1,11 @@
-.blockquote {
+.blockqoute {
     margin: 0;
 }
-.blockquote p{
+.blockqoute p {
     padding: 15px;
     background: #eee;
     border-radius: 5px;
 }
 .figcaption cite {
-    font family: monospace;
+    font-family: 'Abyssinica SIL', serif;
 }
